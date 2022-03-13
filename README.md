@@ -8,4 +8,4 @@ When it comes to the css the first thing I did was move the elements so they wou
 
 The link for the website is https://abydiaz.github.io/first-challenge/urban-octo-telegram-main/Develop/
 
-![Uploading abydiaz.github.io_first-challenge_urban-octo-telegram-main_Develop_.png…]()
+![abydiaz github io_first-challenge_urban-octo-telegram-main_Develop_](https://user-images.githubusercontent.com/97142496/158083313-8db8b600-121c-4b16-9cd9-8e84ef4408e5.png)
